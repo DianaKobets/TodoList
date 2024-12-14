@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DianaKobets/TodoList/static/css/main.499f842d.css",
+    "main.js": "/DianaKobets/TodoList/static/js/main.50a663a6.js",
+    "static/js/488.d2681058.chunk.js": "/DianaKobets/TodoList/static/js/488.d2681058.chunk.js",
+    "index.html": "/DianaKobets/TodoList/index.html",
+    "main.499f842d.css.map": "/DianaKobets/TodoList/static/css/main.499f842d.css.map",
+    "main.50a663a6.js.map": "/DianaKobets/TodoList/static/js/main.50a663a6.js.map",
+    "488.d2681058.chunk.js.map": "/DianaKobets/TodoList/static/js/488.d2681058.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499f842d.css",
+    "static/js/main.50a663a6.js"
+  ]
+}
